@@ -3,4 +3,5 @@ Sample Git Repository
 
 
 # Please Clone and Add your name and your city
-Miguel Melendez - Cambridge, MA
+Miguel Melendez at Cambridge, MA
+Adding another line for commit
